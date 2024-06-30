@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="overview_style">
+            <item name="android:textSize">20sp</item>
+            <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+
+    <style name="movie_title_style">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+
+    <style name="home_movie_title_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+
+    <style name="date_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+</resources>
